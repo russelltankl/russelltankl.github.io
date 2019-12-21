@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Jekyll Now
+title: First Post
 ---
 
 print("Hello World")

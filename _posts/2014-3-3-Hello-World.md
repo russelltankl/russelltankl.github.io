@@ -1,14 +1,39 @@
 ---
 layout: post
-title: Publications
+title: Introducing Jekyll Now
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque purus eu feugiat efficitur. Donec ac fermentum nisl. Nullam mollis hendrerit erat eu accumsan. Maecenas tincidunt imperdiet bibendum. Nulla facilisi. Donec auctor convallis arcu semper fringilla. Pellentesque sed est dui. Suspendisse ut dapibus mauris. Nulla varius porta dui in mollis. Donec eu gravida odio, et imperdiet diam. Pellentesque at efficitur risus. Vestibulum risus risus, placerat a mattis a, varius sed mi. Integer finibus ultrices vulputate.
+[Jekyll](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted blogs.
 
-Suspendisse at velit nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi eget sapien hendrerit, vulputate lorem quis, mollis nisl. Donec efficitur urna sed tortor pellentesque, sed facilisis ipsum maximus. Integer sed ligula nec sem mattis dapibus. Sed tincidunt nisl sed diam viverra posuere. Suspendisse consectetur massa nec tortor feugiat, in volutpat eros facilisis. Donec sit amet orci pulvinar, finibus augue sit amet, commodo tellus. Maecenas posuere arcu sit amet urna varius imperdiet. Nulla laoreet id velit non rhoncus. Aliquam ultricies enim id mi facilisis, sed laoreet nunc tincidunt. Ut efficitur diam in enim commodo, nec vulputate leo mattis. Nullam leo est, sollicitudin vel vehicula quis, venenatis eu purus. Vestibulum malesuada ornare felis eget ornare. Morbi id massa at metus porttitor lacinia vitae vitae purus. Vestibulum ac lacinia eros.
+[Jekyll Now](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
 
-Nullam facilisis orci vel nisl rhoncus imperdiet. Cras vestibulum semper dui, et posuere mauris tristique non. Phasellus sed vehicula augue, sed mollis nunc. Proin non risus massa. Suspendisse pharetra ipsum sed congue tempus. Nunc non tortor sem. Aliquam tincidunt et augue ac rutrum. Proin porta turpis a elit ultricies sollicitudin. Aliquam ac diam eget elit tempor semper vitae eget lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+- You don't need to touch the command line
+- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
+- You don't need to install runtime dependancies like markdown processors, Pygments, etc
+- It's easy to try out, you can just delete your forked repository if you don't like it
+- In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
 
-Fusce nec congue sapien, eu vehicula augue. Cras elementum dapibus mi eleifend facilisis. Nam bibendum metus tellus, quis ullamcorper dolor pellentesque a. Phasellus vitae tellus quis lacus feugiat dictum non ac neque. Ut dictum non sem ac maximus. Aenean id erat orci. Quisque eget elit volutpat, tempor sapien at, accumsan mauris. Integer quis semper dolor. Nullam eu dolor nibh. Vivamus at interdum libero. Sed volutpat felis nisi, id faucibus tortor fringilla nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## Create your blog in 30 seconds!
 
-In consequat, lorem sed rutrum hendrerit, risus sapien tempor turpis, nec congue nibh arcu vitae erat. Aenean at diam et massa varius elementum. Curabitur fermentum massa leo, ullamcorper tempus dolor eleifend sit amet. Nulla mi felis, congue quis velit mattis, gravida ultrices tortor. Sed at sapien nec lacus auctor semper. In laoreet ligula at metus faucibus imperdiet. Vestibulum vitae hendrerit purus, sed tristique eros. Fusce efficitur ullamcorper tempus. Pellentesque in libero convallis, gravida massa id, dictum arcu. Mauris iaculis massa id tellus scelerisque commodo. Nulla facilisi. Phasellus lacinia libero hendrerit, sagittis orci eget, pulvinar nunc.
+![Initial setup of Jekyll Now]({{ site.baseurl }}/images/step1.gif "Initial setup of Jekyll Now")
+
+## Jekyll Now Features
+
+✓ _Command-line free fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ Fully responsive and mobile optimized base theme  
+✓ Sass/Coffeescript support using Jekyll 2.0  
+✓ Free hosting on your GitHub Pages user site  
+✓ Markdown blogging  
+✓ Syntax highlighting  
+✓ Disqus commenting  
+✓ Google Analytics integration  
+✓ SVG social icons for your footer  
+✓ 3 http requests, including your avatar  
+
+✘ No installing dependancies  
+✘ No need to set up local development  
+✘ No configuring plugins  
+✘ No need to spend time on theming  
+✘ More time to code other things ... wait ✓! 
+
+[Quick Start walkthrough on the Jekyll Now GitHub repository](http://github.com/barryclark/jekyll-now#quick-start).

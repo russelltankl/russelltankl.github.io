@@ -40,4 +40,4 @@ permalink: /publications/
 
 ### Graphene as a flexible electrode:  Review of fabrication approaches
 
-***K.L. Tan**,  S.  P.  Reeves,  N.  Hashemi,  D.G.  Thomas,  E.  Kavak,  R.  Montazami,  N.  N.Hashemi, [Graphene as a flexible electrode:  Review of fabrication approaches](https://lib.dr.iastate.edu/me_pubs/240/).  Journal of Materials Chemistry A (Royal Society of Chemistry), 2017.*
+***K.L. Tan**,  S.  P.  Reeves,  N.  Hashemi,  D.G.  Thomas,  E.  Kavak,  R.  Montazami,  N.  N.Hashemi, [Graphene as a flexible electrode:  Review of fabrication approaches](https://lib.dr.iastate.edu/me_pubs/240/).  Journal of Materials Chemistry A ([Royal Society of Chemistry](https://www.rsc.org)), 2017.*
